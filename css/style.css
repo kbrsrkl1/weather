@@ -24,6 +24,7 @@
   
   button {
     cursor: pointer;
+    
   }
    
   input {
@@ -36,6 +37,7 @@
     background: none;
     outline: none;
     color: inherit;
+    margin-left: 210px;
   }
   
   img {
