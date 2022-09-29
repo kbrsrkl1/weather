@@ -12,8 +12,9 @@ demonstrate their knowledge of algorithmic design principles.
 
 Problem Statement
 Design a weather condition page following the design and populate data for searched city with using of axios in JS.
+Form
 
-[weather_app.if](./weather_app.gif)
+![weather_app.gif](./weather_app.gif)
 
 User story;
 
@@ -22,5 +23,3 @@ The app can fetch api with the searched city name(... and apikey if it is obliga
 User can display weather data of searched city in weather card.
 User can display list of searched city weather data card like on gif.
 If new searched city is in the weather data list, app can display a warning text to user on page.
-
-
